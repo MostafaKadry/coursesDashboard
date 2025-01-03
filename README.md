@@ -21,7 +21,7 @@ A simple, responsive web application built with Next.js, Tailwind CSS, Redux, an
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/courseapp.git](https://github.com/MostafaKadry/coursesDashboard.git)
+    git clone https://github.com/MostafaKadry/coursesDashboard.git
     ```
 
 2. Navigate into the project directory:
