@@ -4,7 +4,7 @@ import Navbar from '@/app/components/Navbar.jsx';
 import Footer from '@/app/components/Footer.jsx';
 
 import Link from "next/link";
-import StoreProvider from "./StoreProvider.jsx";
+import StoreProvider from "./storeProvider.jsx";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
